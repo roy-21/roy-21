@@ -166,6 +166,17 @@
   </a>
 </p>
 
+
+## 👀 Profile Views
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaoun18&style=flat-square&color=1DA1F2&label=Profile+Views" alt="Profile Views" />
+  <img src="https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg" alt="Profile Views Stats" />
+</div>
+<p align="center">
+  <i>Tracking daily, weekly, and monthly profile views with <a href="https://u8views.com/github/shaoun18">u8views</a></i>
+</p>
+
+
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
