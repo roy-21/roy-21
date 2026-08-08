@@ -2,7 +2,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=roy-21&style=flat-square&color=1DA1F2&label=Profile+Views" alt="Profile Views" />
-  <img src="https://u8views.com/api/v1/github/profiles/roy-21/views/day-week-month-total-count.svg" alt="Profile Views Stats" />
 </div>
 
 
