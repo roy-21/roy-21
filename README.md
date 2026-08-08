@@ -1,5 +1,3 @@
-### 👀 Profile Views
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=roy-21&style=flat-square&color=1DA1F2&label=Profile+Views" alt="Profile Views" />
 </div>
