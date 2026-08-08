@@ -5,9 +5,6 @@
   <img src="https://u8views.com/api/v1/github/profiles/roy-21/views/day-week-month-total-count.svg" alt="Profile Views Stats" />
 </div>
 
-<p align="center">
-  <i>Tracking daily, weekly, and monthly profile views</i>
-</p>
 
 <div align="center">
   <h1>👋 Hi, I'm Sojib Roy</h1>
