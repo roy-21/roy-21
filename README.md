@@ -11,13 +11,14 @@
   <img src="https://img.shields.io/badge/Production%20ML-161B22?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Data%20Engineering-161B22?style=for-the-badge&logo=apacheairflow&logoColor=58A6FF" />
 </p>
+  <p>Turning data into insights and building intelligent, production-ready machine learning systems from Bangladesh 🇧🇩</p>
+
 
 <br>
 
 <!-- ===================== INTRO & SOCIALS ===================== -->
 <div align="center">
 
-  <p>Turning data into insights and building intelligent, production-ready machine learning systems from Bangladesh 🇧🇩</p>
   
   <br>
 
