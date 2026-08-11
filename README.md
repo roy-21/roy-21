@@ -14,9 +14,13 @@
 
 <br>
 
-<!-- ===================== INTRO ===================== -->
+<!-- ===================== INTRO & SOCIALS ===================== -->
 <div align="center">
+
+  <p>Turning data into insights and building intelligent, production-ready machine learning systems from Bangladesh 🇧🇩</p>
+  
   <br>
+
   <a href="https://sojib-roy-full-stack-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
@@ -29,12 +33,38 @@
   <a href="mailto:rcsojib.cse1@gmail.com">
     <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
   </a>
-    <p>Turning data into insights and building intelligent, production-ready machine learning systems from Bangladesh 🇧🇩</p>
 
 </div>
 
 <br>
 <hr>
+
+<!-- ===================== TECHNICAL SKILLS ===================== -->
+## 🛠️ Tech Stack & Expertise
+
+* 📊 **Data Science**: Python • SQL • Pandas • NumPy • Matplotlib & Seaborn
+* 🤖 **Machine Learning**: Scikit-Learn • TensorFlow • PyTorch • Feature Engineering
+* ⚙️ **Production ML / MLOps**: Docker • MLflow • FastAPI • CI/CD Pipelines
+* 🌪️ **Data Engineering**: Apache Airflow • ETL Pipelines • PostgreSQL • NoSQL
+
+<br>
+
+<!-- ===================== GITHUB METRICS ===================== -->
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://vercel.app" alt="Sojib's GitHub Stats" height="180" />
+  <img src="https://vercel.app" alt="Top Languages" height="180" />
+</p>
+
+<br>
+
+<!-- ===================== PROJECTS ===================== -->
+## 🚀 Featured Projects
+
+* 🔹 **[Project Name 1](Link_To_Repository)**: Brief one-line description of your project (e.g., *Built an automated ML pipeline using Airflow, reducing data processing time by 30%*).
+* 🔹 **[Project Name 2](Link_To_Repository)**: Brief description highlighting the tech stack (e.g., *Deployed an end-to-end predictive model using Docker and FastAPI*).
+
 
 <!-- ===================== CORE STACK ===================== -->
 ## 🛠️ Core Stack & Expertise
