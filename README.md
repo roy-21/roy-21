@@ -1,29 +1,104 @@
+<!-- ===================== HEADER ===================== -->
+
 <p align="center">
   <a href="https://github.com/roy-21">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Sojib+Chandra+Roy;Data+Science+Engineer+%7C+Production+ML+Systems" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=850&height=100&lines=Sojib+Chandra+Roy;Data+Science+Engineer+%7C+Production+ML+Systems"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF" alt="Data Science" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Production%20ML-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Production ML" />
+  <img src="https://img.shields.io/badge/Data%20Science-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/Production%20ML-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=58A6FF" />
 </p>
 
+<br>
 
+<!-- ===================== INTRO ===================== -->
 
 <div align="center">
-  <h1>👋 Hi, I'm Sojib Roy</h1>
-  <p><b>Data Analyst | Machine Learning & Data Science Enthusiast</b></p>
-  <p>Passionate about turning data into insights and building intelligent systems from Bangladesh 🚀</p>
-  
-  <a href="https://sojib-roy-full-stack-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/roysojib/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/rc_sojib"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:rcsojib.cse1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+### 👋 Hi, I'm Sojib Roy
+
+**Data Science Engineer · Machine Learning · Production ML Systems**
+
+Building data-driven solutions, intelligent systems, and production-ready machine learning applications from Bangladesh 🇧🇩
+
+<br>
+
+<a href="https://sojib-roy-full-stack-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-58A6FF?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/roysojib/">
+  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://twitter.com/rc_sojib">
+  <img src="https://img.shields.io/badge/Twitter-161B22?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="Twitter"/>
+</a>
+&nbsp;
+<a href="mailto:rcsojib.cse1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+</a>
+
 </div>
 
----
+<br>
+
+<!-- ===================== ABOUT ===================== -->
+
+<h2 align="center">⚡ About Me</h2>
+
+<div align="center">
+
+| 🧠 Focus | 🚀 Building | 📊 Interested In |
+|:---:|:---:|:---:|
+| Data Science | Production ML Systems | Machine Learning |
+| Analytics | Data Pipelines | AI & Intelligent Systems |
+| Predictive Modeling | Scalable Applications | Data Engineering |
+
+</div>
+
+<br>
+
+<!-- ===================== TECH STACK ===================== -->
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,r,sql,pandas,numpy,sklearn,pytorch,tensorflow,docker,git,github,linux&theme=dark" />
+
+</p>
+
+<br>
+
+<!-- ===================== CONNECT ===================== -->
+
+<h2 align="center">🌐 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://sojib-roy-full-stack-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/roysojib/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rcsojib.cse1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=roy-21&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
+</p>
 
 ### 👨‍💻 About Me
 
