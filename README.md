@@ -27,12 +27,6 @@
   <a href="https://www.linkedin.com/in/roysojib/">
     <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/rc_sojib">
-    <img src="https://img.shields.io/badge/X-161B22?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X"/>
-  </a>
-  <a href="mailto:rcsojib.cse1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
-  </a>
 
 </div>
 
