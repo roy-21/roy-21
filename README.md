@@ -1,18 +1,21 @@
 <p align="center">
   <a href="https://github.com/sojib-roy">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&duration=3000&pause=1000&color=4682B4&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Sojib+Chandra+Roy;Data+Science+%7C+Machine+Learning+%7C+Deep+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&duration=3000&pause=1000&color=4682B4&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Sojib+Chandra+Roy;Data+Scientist+%7C+Machine+Learning+%7C+Deep+Learning" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-Data Science focused on Machine Learning, Deep Learning, and data-driven problem solving.<br>
+Data Scientist focused on Machine Learning, Deep Learning, and data-driven problem solving.<br>
 Working across NLP, Computer Vision, Predictive Analytics, and AI, with a solid foundation in Networking.<br>
 Building practical, data-driven AI solutions for real-world problems.
 </p>
 
 <p align="center">
+  <a href="https://github.com/roy-21/Sojib_Roy-Full-Stack-Portfolio/blob/main/public/CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=adobe&logoColor=white" alt="Resume">
+  </a>
   <a href="https://sojib-roy-full-stack-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
@@ -22,6 +25,7 @@ print("Learn deeply. Build practically. Turn data into intelligence.")
 ```
 
 ---
+
 
 <!-- ===================== ABOUT ===================== -->
 
