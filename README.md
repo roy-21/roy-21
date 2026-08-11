@@ -24,22 +24,128 @@ Building practical, data-driven AI solutions for real-world problems.
 ---
 
 
-<!-- ===================== ABOUT ===================== -->
+## 🛠️ Tech Stack
 
-<h2 align="center">👨‍💻 About Me</h2>
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>📊 Data Science & ML</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" />
+        <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square" />
+        <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      </p>
+    </td>
 
-<p align="center">
-  I’m a Data Science Engineer focused on transforming raw data into
-  <strong>actionable insights</strong> and building
-  <strong>scalable, production-ready ML systems</strong>.
-</p>
+```
+<td valign="top" width="33%">
+  <h3>🧠 Deep Learning & AI</h3>
+  <p>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+    <img src="https://img.shields.io/badge/Computer%20Vision-0078D7?style=flat-square" />
+    <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=flat-square" />
+  </p>
+</td>
 
-<p align="center">
-  My interests span Data Science, Machine Learning, MLOps,
-  Data Engineering, and intelligent software systems.
-</p>
+<td valign="top" width="33%">
+  <h3>🗣️ NLP & Speech AI</h3>
+  <p>
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+    <img src="https://img.shields.io/badge/BERT-005571?style=flat-square" />
+    <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square" />
+    <img src="https://img.shields.io/badge/wav2vec2-FF6F00?style=flat-square" />
+    <img src="https://img.shields.io/badge/pyannote.audio-1F77B4?style=flat-square" />
+    <img src="https://img.shields.io/badge/WeSpeaker-2E8B57?style=flat-square" />
+  </p>
+</td>
+```
 
-<br>
+  </tr>
+
+  <tr>
+    <td valign="top" width="33%">
+      <h3>🤖 Generative AI</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Prompt%20Engineering-6B48FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square" />
+        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square" />
+      </p>
+    </td>
+
+```
+<td valign="top" width="33%">
+  <h3>⚙️ MLOps & Deployment</h3>
+  <p>
+    <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  </p>
+</td>
+
+<td valign="top" width="33%">
+  <h3>📈 Data & Visualization</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+    <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" />
+    <img src="https://img.shields.io/badge/ggplot2-1F77B4?style=flat-square" />
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+    <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white" />
+  </p>
+</td>
+```
+
+  </tr>
+
+  <tr>
+    <td valign="top" width="33%">
+      <h3>💻 Programming & Databases</h3>
+      <p>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" />
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+      </p>
+    </td>
+
+```
+<td valign="top" width="33%">
+  <h3>🌐 Networking</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Computer%20Networking-0078D7?style=flat-square" />
+    <img src="https://img.shields.io/badge/TCP%2FIP-2F4F4F?style=flat-square" />
+    <img src="https://img.shields.io/badge/Network%20Fundamentals-4682B4?style=flat-square" />
+  </p>
+</td>
+
+<td valign="top" width="33%">
+  <h3>🔧 Tools & Workflow</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white" />
+  </p>
+</td>
+```
+
+  </tr>
+</table>
+
+---
+
 
 <!-- ===================== SOCIALS ===================== -->
 
