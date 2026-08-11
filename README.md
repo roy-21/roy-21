@@ -4,6 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=850&height=100&lines=Sojib+Chandra+Roy;Data+Science+Engineer+%7C+Production+ML+Systems" alt="Typing SVG" />
   </a>
 </p>
+<p>Turning data into insights and building intelligent, production-ready machine learning systems.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Science-161B22?style=for-the-badge&logo=python&logoColor=58A6FF" />
@@ -11,7 +12,6 @@
   <img src="https://img.shields.io/badge/Production%20ML-161B22?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Data%20Engineering-161B22?style=for-the-badge&logo=apacheairflow&logoColor=58A6FF" />
 </p>
-  <p>Turning data into insights and building intelligent, production-ready machine learning systems from Bangladesh 🇧🇩</p>
 
 
 <br>
