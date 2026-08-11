@@ -23,7 +23,6 @@ Building practical, data-driven AI solutions for real-world problems.
 
 ---
 
-
 ## 🛠️ Tech Stack
 
 <table>
@@ -145,6 +144,7 @@ Building practical, data-driven AI solutions for real-world problems.
 </table>
 
 ---
+
 
 
 <!-- ===================== SOCIALS ===================== -->
