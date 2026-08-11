@@ -1,43 +1,72 @@
 <!-- ===================== HERO HEADER ===================== -->
 <p align="center">
-  <a href="https://github.com/roy-21">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=850&height=100&lines=Sojib+Chandra+Roy;Data+Science+Engineer+%7C+Production+ML+Systems" alt="Typing SVG" />
+  <a href="https://github.com">
+    <img src="https://demolab.com" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-161B22?style=for-the-badge&logo=python&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-161B22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
-  <img src="https://img.shields.io/badge/Production%20ML-161B22?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Data%20Engineering-161B22?style=for-the-badge&logo=apacheairflow&logoColor=58A6FF" />
+  Turning data into insights and building intelligent, production-ready machine learning systems from Bangladesh 🇧🇩
 </p>
 
 <br>
 
-<!-- ===================== INTRO & SOCIALS ===================== -->
+<p align="center">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+<br>
+
+<!-- ===================== SOCIALS ===================== -->
 <div align="center">
 
-  <p>Turning data into insights and building intelligent, production-ready machine learning systems from Bangladesh 🇧🇩</p>
-  
-  <br>
-
-  <a href="https://sojib-roy-full-stack-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <a href="https://vercel.app">
+    <img src="https://shields.io🌐%20Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/roysojib/">
-    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  <a href="https://linkedin.com">
+    <img src="https://shields.ioLinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/rc_sojib">
-    <img src="https://img.shields.io/badge/X-161B22?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X"/>
+  <a href="https://twitter.com">
+    <img src="https://shields.ioX-161B22?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X"/>
   </a>
   <a href="mailto:rcsojib.cse1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+    <img src="https://shields.ioEmail-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
   </a>
 
 </div>
 
 <br>
 <hr>
+
+<!-- ===================== TECHNICAL SKILLS ===================== -->
+## 🛠️ Tech Stack & Expertise
+
+* 📊 **Data Science**: Python • SQL • Pandas • NumPy • Matplotlib & Seaborn
+* 🤖 **Machine Learning**: Scikit-Learn • TensorFlow • PyTorch • Feature Engineering
+* ⚙️ **Production ML / MLOps**: Docker • MLflow • FastAPI • CI/CD Pipelines
+* 🌪️ **Data Engineering**: Apache Airflow • ETL Pipelines • PostgreSQL • NoSQL
+
+<br>
+
+<!-- ===================== GITHUB METRICS ===================== -->
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://vercel.app" alt="Sojib's GitHub Stats" height="180" />
+  <img src="https://vercel.app" alt="Top Languages" height="180" />
+</p>
+
+<br>
+
+<!-- ===================== PROJECTS ===================== -->
+## 🚀 Featured Projects
+
+* 🔹 **[Project Name 1](Link_To_Repository)**: Brief one-line description of your project (e.g., *Built an automated ML pipeline using Airflow, reducing data processing time by 30%*).
+* 🔹 **[Project Name 2](Link_To_Repository)**: Brief description highlighting the tech stack (e.g., *Deployed an end-to-end predictive model using Docker and FastAPI*).
+
 
 <!-- ===================== TECHNICAL SKILLS ===================== -->
 ## 🛠️ Tech Stack & Expertise
