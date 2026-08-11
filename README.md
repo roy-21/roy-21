@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/sojib-roy">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&duration=3000&pause=1000&color=4682B4&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Sojib+Chandra+Roy;Data+Science +%7C+Machine+Learning+%7C+Deep+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&duration=3000&pause=1000&color=4682B4&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Sojib+Chandra+Roy;Data+Science+%7C+Machine+Learning+%7C+Deep+Learning" alt="Typing SVG" />
   </a>
 </p>
 
