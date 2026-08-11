@@ -1,11 +1,7 @@
 <!-- ===================== HERO HEADER ===================== -->
-
 <p align="center">
   <a href="https://github.com/roy-21">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=850&height=100&lines=Sojib+Chandra+Roy;Data+Science+Engineer+%7C+Production+ML+Systems"
-      alt="Typing SVG"
-    />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=850&height=100&lines=Sojib+Chandra+Roy;Data+Science+Engineer+%7C+Production+ML+Systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,35 +15,52 @@
 <br>
 
 <!-- ===================== INTRO ===================== -->
-
 <div align="center">
+  <p>Turning data into insights and building intelligent, production-ready machine learning systems from Bangladesh 🇧🇩</p>
+  <br>
+  <a href="https://sojib-roy-full-stack-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/roysojib/">
+    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/rc_sojib">
+    <img src="https://img.shields.io/badge/X-161B22?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X"/>
+  </a>
+  <a href="mailto:rcsojib.cse1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+  </a>
+</div>
 
-<p>
-  Turning data into insights and building intelligent, production-ready
-  machine learning systems from Bangladesh 🇧🇩
+<br>
+<hr>
+
+<!-- ===================== CORE STACK ===================== -->
+## 🛠️ Core Stack & Expertise
+
+* 📊 **Data Science**: Python • SQL • Pandas • NumPy • Data Visualization
+* 🤖 **Machine Learning**: Scikit-Learn • TensorFlow • PyTorch • Feature Engineering
+* ⚙️ **Production ML / MLOps**: Docker • MLflow • FastAPI • CI/CD Pipelines
+* 🌪️ **Data Engineering**: Apache Airflow • ETL Pipelines • Databases (SQL/NoSQL)
+
+<br>
+
+<!-- ===================== GITHUB STATS ===================== -->
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://vercel.app" alt="Sojib's GitHub Stats" height="180" />
+  <img src="https://vercel.app" alt="Top Languages" height="180" />
 </p>
 
 <br>
 
-<a href="https://sojib-roy-full-stack-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
+<!-- ===================== FEATURED PROJECTS ===================== -->
+## 🚀 Featured Production Projects
 
-<a href="https://www.linkedin.com/in/roysojib/">
-  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-</a>
+* 🔹 **[Project Name 1](Link_Here)**: Brief sentence about the project and its impact (e.g., *Built an automated ML pipeline using Airflow, reducing data latency by 30%*).
+* 🔹 **[Project Name 2](Link_Here)**: Brief description highlighting the tech stack (e.g., *Deployed an end-to-end NLP model using Docker and FastAPI*).
 
-<a href="https://twitter.com/rc_sojib">
-  <img src="https://img.shields.io/badge/X-161B22?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X"/>
-</a>
-
-<a href="mailto:rcsojib.cse1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
-</a>
-
-</div>
-
-<br>
 
 ---
 
