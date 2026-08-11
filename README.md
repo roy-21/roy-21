@@ -1,26 +1,30 @@
-<!-- ===================== HERO HEADER ===================== -->
-
 <p align="center">
-  <a href="https://github.com/roy-21">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=850&height=100&lines=Sojib+Chandra+Roy;Data+Science+Engineer+%7C+Production+ML+Systems"
-      alt="Typing SVG"
-    />
+  <a href="https://github.com/sojib-roy">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&duration=3000&pause=1000&color=4682B4&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Sojib+Chandra+Roy;Data+Scientist+%7C+Machine+Learning+%7C+Deep+Learning" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <strong>Turning data into insights and building intelligent, production-ready machine learning systems.</strong>
+Data Scientist focused on Machine Learning, Deep Learning, and data-driven problem solving.<br>
+Working across NLP, Computer Vision, Predictive Analytics, and AI, with a solid foundation in Networking.<br>
+Building practical, data-driven AI solutions for real-world problems.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-161B22?style=for-the-badge&logo=python&logoColor=58A6FF" alt="Data Science"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-161B22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Production%20ML-161B22?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Production ML"/>
-  <img src="https://img.shields.io/badge/Data%20Engineering-161B22?style=for-the-badge&logo=apacheairflow&logoColor=58A6FF" alt="Data Engineering"/>
+  <a href="https://sojib-roy-full-stack-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  <a href="https://github.com/sojib-roy">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
-<br>
+```python
+# Data Science · Machine Learning · Deep Learning · NLP · Computer Vision
+print("Learn deeply. Build practically. Turn data into intelligence.")
+```
+
+---
 
 <!-- ===================== ABOUT ===================== -->
 
