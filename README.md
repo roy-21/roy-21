@@ -22,12 +22,6 @@
 
 <div align="center">
 
-<h2>👋 Hi, I'm Sojib Roy</h2>
-
-<p>
-  <b>Data Science Engineer · Machine Learning · Production ML Systems</b>
-</p>
-
 <p>
   Turning data into insights and building intelligent, production-ready
   machine learning systems from Bangladesh 🇧🇩
