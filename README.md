@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/sojib-roy">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&duration=3000&pause=1000&color=4682B4&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Sojib+Chandra+Roy;Data+Scientist+%7C+Machine+Learning+%7C+Deep+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&duration=3000&pause=1000&color=4682B4&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Sojib+Chandra+Roy;Data+Science+%7C+Machine+Learning+%7C+Deep+Learning" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-Data Scientist focused on Machine Learning, Deep Learning, and data-driven problem solving.<br>
+Data Science focused on Machine Learning, Deep Learning, and data-driven problem solving.<br>
 Working across NLP, Computer Vision, Predictive Analytics, and AI, with a solid foundation in Networking.<br>
 Building practical, data-driven AI solutions for real-world problems.
 </p>
@@ -18,8 +18,6 @@ Building practical, data-driven AI solutions for real-world problems.
     <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p>
-
-
 
 ---
 
@@ -41,31 +39,6 @@ Building practical, data-driven AI solutions for real-world problems.
       </p>
     </td>
 
-```
-<td valign="top" width="33%">
-  <h3>🧠 Deep Learning & AI</h3>
-  <p>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-    <img src="https://img.shields.io/badge/Computer%20Vision-0078D7?style=flat-square" />
-    <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=flat-square" />
-  </p>
-</td>
-
-<td valign="top" width="33%">
-  <h3>🗣️ NLP & Speech AI</h3>
-  <p>
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-    <img src="https://img.shields.io/badge/BERT-005571?style=flat-square" />
-    <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square" />
-    <img src="https://img.shields.io/badge/wav2vec2-FF6F00?style=flat-square" />
-    <img src="https://img.shields.io/badge/pyannote.audio-1F77B4?style=flat-square" />
-    <img src="https://img.shields.io/badge/WeSpeaker-2E8B57?style=flat-square" />
-  </p>
-</td>
-```
-
   </tr>
 
   <tr>
@@ -79,30 +52,7 @@ Building practical, data-driven AI solutions for real-world problems.
       </p>
     </td>
 
-```
-<td valign="top" width="33%">
-  <h3>⚙️ MLOps & Deployment</h3>
-  <p>
-    <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  </p>
-</td>
 
-<td valign="top" width="33%">
-  <h3>📈 Data & Visualization</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
-    <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" />
-    <img src="https://img.shields.io/badge/ggplot2-1F77B4?style=flat-square" />
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-    <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white" />
-  </p>
-</td>
-```
 
   </tr>
 
@@ -116,36 +66,10 @@ Building practical, data-driven AI solutions for real-world problems.
         <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
       </p>
     </td>
-
-```
-<td valign="top" width="33%">
-  <h3>🌐 Networking</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Computer%20Networking-0078D7?style=flat-square" />
-    <img src="https://img.shields.io/badge/TCP%2FIP-2F4F4F?style=flat-square" />
-    <img src="https://img.shields.io/badge/Network%20Fundamentals-4682B4?style=flat-square" />
-  </p>
-</td>
-
-<td valign="top" width="33%">
-  <h3>🔧 Tools & Workflow</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white" />
-  </p>
-</td>
-```
-
   </tr>
 </table>
 
 ---
-
-
 
 <!-- ===================== SOCIALS ===================== -->
 
