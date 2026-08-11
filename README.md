@@ -19,10 +19,7 @@ Building practical, data-driven AI solutions for real-world problems.
   </a>
 </p>
 
-```python
-# Data Science · Machine Learning · Deep Learning · NLP · Computer Vision
-print("Learn deeply. Build practically. Turn data into intelligence.")
-```
+
 
 ---
 
