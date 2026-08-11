@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=roy-21&style=flat-square&color=1DA1F2&label=Profile+Views" alt="Profile Views" />
-</div>
+<p align="center">
+  <a href="https://github.com/roy-21">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&duration=3000&pause=1000&color=4682B4&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Sojib+Chandra+Roy;Data+Science+Engineer+%7C+Production+ML+Systems" alt="Typing SVG" />
+  </a>
+</p>
 
 
 <div align="center">
