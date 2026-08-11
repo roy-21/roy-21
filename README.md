@@ -1,38 +1,95 @@
 <!-- ===================== HERO HEADER ===================== -->
+
 <p align="center">
   <a href="https://github.com/roy-21">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=850&height=100&lines=Sojib+Chandra+Roy;Data+Science+Engineer+%7C+Production+ML+Systems" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=850&height=100&lines=Sojib+Chandra+Roy;Data+Science+Engineer+%7C+Production+ML+Systems"
+      alt="Typing SVG"
+    />
   </a>
 </p>
-<p>Turning data into insights and building intelligent, production-ready machine learning systems.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-161B22?style=for-the-badge&logo=python&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-161B22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
-  <img src="https://img.shields.io/badge/Production%20ML-161B22?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Data%20Engineering-161B22?style=for-the-badge&logo=apacheairflow&logoColor=58A6FF" />
+  <strong>Turning data into insights and building intelligent, production-ready machine learning systems.</strong>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Science-161B22?style=for-the-badge&logo=python&logoColor=58A6FF" alt="Data Science"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-161B22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Production%20ML-161B22?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Production ML"/>
+  <img src="https://img.shields.io/badge/Data%20Engineering-161B22?style=for-the-badge&logo=apacheairflow&logoColor=58A6FF" alt="Data Engineering"/>
+</p>
 
 <br>
 
-<!-- ===================== INTRO & SOCIALS ===================== -->
-<div align="center">
+<!-- ===================== ABOUT ===================== -->
 
-  
-  <br>
+<h2 align="center">👨‍💻 About Me</h2>
 
+<p align="center">
+  I’m a Data Science Engineer focused on transforming raw data into
+  <strong>actionable insights</strong> and building
+  <strong>scalable, production-ready ML systems</strong>.
+</p>
+
+<p align="center">
+  My interests span Data Science, Machine Learning, MLOps,
+  Data Engineering, and intelligent software systems.
+</p>
+
+<br>
+
+<!-- ===================== SOCIALS ===================== -->
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
   <a href="https://sojib-roy-full-stack-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/roysojib/">
-    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+    <img
+      src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
 
-</div>
+  <a href="https://www.linkedin.com/in/roysojib/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://github.com/roy-21">
+    <img
+      src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+</p>
 
 <br>
 <hr>
+
+<!-- ===================== CURRENT FOCUS ===================== -->
+
+<h2 align="center">🚀 Current Focus</h2>
+
+<p align="center">
+  Building reliable ML pipelines, production-grade machine learning systems,
+  and data-driven applications that solve real-world problems.
+</p>
+
+<p align="center">
+  <code>Data → Insights → Models → Production</code>
+</p>
+
+<br>
+
+<!-- ===================== FOOTER ===================== -->
+
+<p align="center">
+  <i>Always learning. Always building. Always improving.</i>
+</p>
+
 
 <!-- ===================== TECHNICAL SKILLS ===================== -->
 ## 🛠️ Tech Stack & Expertise
