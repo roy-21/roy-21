@@ -16,7 +16,6 @@
 
 <!-- ===================== INTRO ===================== -->
 <div align="center">
-  <p>Turning data into insights and building intelligent, production-ready machine learning systems from Bangladesh 🇧🇩</p>
   <br>
   <a href="https://sojib-roy-full-stack-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
@@ -30,6 +29,8 @@
   <a href="mailto:rcsojib.cse1@gmail.com">
     <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
   </a>
+    <p>Turning data into insights and building intelligent, production-ready machine learning systems from Bangladesh 🇧🇩</p>
+
 </div>
 
 <br>
