@@ -1,4 +1,4 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== HERO HEADER ===================== -->
 
 <p align="center">
   <a href="https://github.com/roy-21">
@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
-  <img src="https://img.shields.io/badge/Production%20ML-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Data%20Engineering-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Data%20Science-161B22?style=for-the-badge&logo=python&logoColor=58A6FF" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-161B22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/Production%20ML-161B22?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-161B22?style=for-the-badge&logo=apacheairflow&logoColor=58A6FF" />
 </p>
 
 <br>
@@ -22,26 +22,31 @@
 
 <div align="center">
 
-### 👋 Hi, I'm Sojib Roy
+<h2>👋 Hi, I'm Sojib Roy</h2>
 
-**Data Science Engineer · Machine Learning · Production ML Systems**
+<p>
+  <b>Data Science Engineer · Machine Learning · Production ML Systems</b>
+</p>
 
-Building data-driven solutions, intelligent systems, and production-ready machine learning applications from Bangladesh 🇧🇩
+<p>
+  Turning data into insights and building intelligent, production-ready
+  machine learning systems from Bangladesh 🇧🇩
+</p>
 
 <br>
 
 <a href="https://sojib-roy-full-stack-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-58A6FF?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/roysojib/">
   <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
-&nbsp;
+
 <a href="https://twitter.com/rc_sojib">
-  <img src="https://img.shields.io/badge/Twitter-161B22?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/X-161B22?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X"/>
 </a>
-&nbsp;
+
 <a href="mailto:rcsojib.cse1@gmail.com">
   <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
@@ -50,21 +55,83 @@ Building data-driven solutions, intelligent systems, and production-ready machin
 
 <br>
 
-<!-- ===================== ABOUT ===================== -->
+---
 
-<h2 align="center">⚡ About Me</h2>
+<!-- ===================== ABOUT ME ===================== -->
+
+<h2 align="center">🧠 About Me</h2>
 
 <div align="center">
 
-| 🧠 Focus | 🚀 Building | 📊 Interested In |
-|:---:|:---:|:---:|
-| Data Science | Production ML Systems | Machine Learning |
-| Analytics | Data Pipelines | AI & Intelligent Systems |
-| Predictive Modeling | Scalable Applications | Data Engineering |
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🔭 Currently
+
+Working on <b>AIQuest Bangla Sentiment Analysis</b>
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌱 Learning
+
+<b>Data Analysis</b><br> <b>Machine Learning</b><br> <b>Deep Learning</b>
+
+</td>
+
+<td align="center" width="33%">
+
+### 💡 Passionate About
+
+Real-world problems<br>
+using <b>Data & AI</b>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br>
+
+<p align="center">
+  <i>
+    "Building intelligent systems that transform data into meaningful decisions."
+  </i>
+</p>
+
+---
+
+<!-- ===================== AREAS OF INTEREST ===================== -->
+
+<h2 align="center">🎯 Areas of Interest</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Natural%20Language%20Processing-161B22?style=for-the-badge&logo=googletranslate&logoColor=58A6FF" />
+
+<img src="https://img.shields.io/badge/Machine%20Learning-161B22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+
+<img src="https://img.shields.io/badge/Deep%20Learning-161B22?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+
+<img src="https://img.shields.io/badge/Data%20Analysis-161B22?style=for-the-badge&logo=databricks&logoColor=FF3621" />
+
+<img src="https://img.shields.io/badge/Time%20Series-161B22?style=for-the-badge&logo=chartdotjs&logoColor=58A6FF" />
+
+<img src="https://img.shields.io/badge/Computer%20Vision-161B22?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
+
+</p>
+
+<p align="center">
+  <i>
+    Especially interested in Bangla & multilingual NLP, predictive modeling,
+    medical imaging, and production ML systems.
+  </i>
+</p>
+
+---
 
 <!-- ===================== TECH STACK ===================== -->
 
@@ -72,141 +139,256 @@ Building data-driven solutions, intelligent systems, and production-ready machin
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r,sql,pandas,numpy,sklearn,pytorch,tensorflow,docker,git,github,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,r,mysql,postgresql,pytorch,tensorflow,docker,git,github,linux,html,css,php,c,cpp,arduino&theme=dark" />
 
 </p>
 
 <br>
 
-<!-- ===================== CONNECT ===================== -->
+<div align="center">
 
-<h2 align="center">🌐 Let's Connect</h2>
+### 📊 Data & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-161B22?style=flat-square&logo=pandas&logoColor=150458" />
+  <img src="https://img.shields.io/badge/NumPy-161B22?style=flat-square&logo=numpy&logoColor=4DABCF" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-161B22?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/PyTorch-161B22?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/TensorFlow-161B22?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/Seaborn-161B22?style=flat-square&logo=python&logoColor=58A6FF" />
+</p>
+
+### ⚙️ Engineering & Deployment
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Linux-161B22?style=flat-square&logo=linux&logoColor=FCC624" />
+</p>
+
+</div>
+
+---
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Tech</th>
+</tr>
+
+<tr>
+<td>
+<b>🫁 Pneumonia Detection</b>
+</td>
+<td>
+Chest X-Ray pneumonia detection using EfficientNet-B3,
+Grad-CAM and FastAPI.
+</td>
+<td>
+PyTorch · FastAPI · Docker
+</td>
+</tr>
+
+<tr>
+<td>
+<b>🩺 Diabetes Prediction System</b>
+</td>
+<td>
+Full-stack diabetes risk prediction system using ensemble
+models, TabNet and SHAP.
+</td>
+<td>
+FastAPI · React · XGBoost · TabNet
+</td>
+</tr>
+
+<tr>
+<td>
+<b>🇧🇩 Bangla Sentiment Analysis</b>
+</td>
+<td>
+Bangla text sentiment classification into Positive,
+Negative and Neutral classes.
+</td>
+<td>
+NLP · Scikit-learn
+</td>
+</tr>
+
+<tr>
+<td>
+<b>🏠 HomeValueAI</b>
+</td>
+<td>
+Machine learning based house price prediction system.
+</td>
+<td>
+Python · Machine Learning
+</td>
+</tr>
+
+<tr>
+<td>
+<b>🌡️ Temperature Forecasting</b>
+</td>
+<td>
+Daily temperature forecasting system for Dhaka.
+</td>
+<td>
+Time Series · Python
+</td>
+</tr>
+
+</table>
+
+<br>
 
 <p align="center">
-  <a href="https://sojib-roy-full-stack-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://github.com/roy-21?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Projects-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" />
   </a>
-  <a href="https://www.linkedin.com/in/roysojib/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rcsojib.cse1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+</p>
+
+---
+
+<!-- ===================== RESEARCH ===================== -->
+
+<h2 align="center">🔬 Research & Metrics</h2>
+
+<div align="center">
+
+|       📌 Metric      | 🔢 Count |
+| :------------------: | :------: |
+|    📄 Publications   |   **1**  |
+|     🔍 Citations     |   **1**  |
+|   👥 Collaborators   |   **0**  |
+| 🧪 Featured Projects |   **5**  |
+
+</div>
+
+---
+
+<!-- ===================== SOCIALS ===================== -->
+
+<h2 align="center">🌐 Find Me Online</h2>
+
+<p align="center">
+
+<a href="https://github.com/roy-21">
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+
+<a href="https://www.linkedin.com/in/roysojib/">
+  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+
+<a href="https://www.kaggle.com/roy210005">
+  <img src="https://img.shields.io/badge/Kaggle-161B22?style=for-the-badge&logo=kaggle&logoColor=20BEFF" />
+</a>
+
+<a href="https://twitter.com/rc_sojib">
+  <img src="https://img.shields.io/badge/X-161B22?style=for-the-badge&logo=x&logoColor=FFFFFF" />
+</a>
+
+<a href="https://www.facebook.com/sojib614">
+  <img src="https://img.shields.io/badge/Facebook-161B22?style=for-the-badge&logo=facebook&logoColor=1877F2" />
+</a>
+
+<a href="https://www.instagram.com/roy_jih05/">
+  <img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+</a>
+
+<a href="https://youtube.com/@aisonicflow22">
+  <img src="https://img.shields.io/badge/YouTube-161B22?style=for-the-badge&logo=youtube&logoColor=FF0000" />
+</a>
+
+<a href="https://codeforces.com/profile/sojib_roy5">
+  <img src="https://img.shields.io/badge/Codeforces-161B22?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/rcsoji7ttn/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-161B22?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
+</a>
+
+<a href="https://discord.gg/1365029203908759583">
+  <img src="https://img.shields.io/badge/Discord-161B22?style=for-the-badge&logo=discord&logoColor=5865F2" />
+</a>
+
+</p>
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=roy-21&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+    height="170"
+    alt="GitHub Stats"
+  />
+
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy-21&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+ height="170"
+ alt="Top Languages"
+/>
+
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=roy-21&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=roy-21&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
-
-### 👨‍💻 About Me
-
-- 🔭 Currently working on **[AIQuest Bangla Sentiment Analysis Competition](https://www.kaggle.com/competitions/aiquest-bangla-sentiment-analysis-competition)**
-- 🌱 Currently learning **Data Analysis, Machine Learning & Deep Learning**
-- 💡 Love solving real-world problems using data and AI
-- 📫 Reach me at **rcsojib.cse1@gmail.com**
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech | Link |
-|---------|-------------|------|------|
-| **Pneumonia Detection** | Chest X-Ray Pneumonia detection using EfficientNet-B3 + Grad-CAM + FastAPI | PyTorch, FastAPI, Docker | [View](https://github.com/roy-21/Pneumonia-Detection-from-Chest-X-Ray-Images-using-EfficientNet-B3) |
-| **Diabetes Prediction System** | Full-stack diabetes risk prediction with Ensemble + TabNet + SHAP | FastAPI, React, XGBoost, TabNet | [View](https://github.com/roy-21/Diabetes-prediction-system) |
-| **Bangla Sentiment Analysis** | Bangla text sentiment classification (Positive / Negative / Neutral) | NLP, Scikit-learn | [View](https://github.com/roy-21/aiquest---Bangla-Sentiment-Analysis-Competition) |
-| **Home Value AI** | House price prediction system | Python, ML | [View](https://github.com/roy-21/HomeValueAI) |
-| **Temperature Forecasting** | Daily temperature forecasting for Dhaka | Time Series, Python | [View](https://github.com/roy-21/Daily-Temperature-Forecasting-in-Dhaka) |
-
-> More projects on my [GitHub](https://github.com/roy-21?tab=repositories)
-
----
-
-### 🌟 Areas of Interest
-
-- 📝 Natural Language Processing (especially Bangla & multilingual text)
-- ⚙️ Machine Learning & Deep Learning
-- 📊 Data Analysis & Visualization
-- 📈 Time Series Forecasting
-- 🧠 Computer Vision (Medical Imaging)
-
----
-
-### 📊 Research Metrics
-
-| 📌 Metric | 🔢 Count |
-|-----------|----------|
-| 📄 Publications | **1** |
-| 🔍 Citations | **1** |
-| 👥 Collaborators | **0** |
-| 🧪 Projects | **1** |
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
-  <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
-</p>
-
----
-
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://twitter.com/rc_sojib" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/></a>
-  <a href="https://www.linkedin.com/in/roysojib/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
-  <a href="https://www.kaggle.com/roy210005" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40"/></a>
-  <a href="https://www.facebook.com/sojib614" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/></a>
-  <a href="https://www.instagram.com/roy_jih05/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/></a>
-  <a href="https://youtube.com/@aisonicflow22" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/></a>
-  <a href="https://codeforces.com/profile/sojib_roy5" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40"/></a>
-  <a href="https://www.geeksforgeeks.org/user/rcsoji7ttn/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"/></a>
-  <a href="https://discord.gg/1365029203908759583" target="_blank"><img src="https://img.icons8.com/color/48/discord-logo.png" height="30" width="30"/></a>
-</p>
-
----
-
-### 📊 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=roy-21&theme=ocean&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
-</div>
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roy-21&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy-21&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="165"/>
-</div>
+<p align="center">
+  <img
+    src="https://yourinsights.vercel.app/api/insight?username=roy-21&theme=ocean&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true"
+    alt="GitHub Insights"
+  />
+</p>
+
+---
+
+<!-- ===================== PROFILE VIEWS ===================== -->
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=roy-21&label=Profile%20Views&color=58A6FF&style=flat-square"
+    alt="Profile Views"
+  />
+</p>
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roy-21&theme=dracula&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-
-
----
+<!-- ===================== FOOTER ===================== -->
 
 <div align="center">
-  <i>💻📩 “Open to collaborations on research projects, open-source contributions, and innovative data science initiatives. Let’s connect via email or LinkedIn!”</i>
+
+<h3>💙 Thanks for visiting my profile!</h3>
+
+<p>
+  <i>
+    Open to collaborations on research projects, open-source contributions,
+    and innovative data science initiatives.
+  </i>
+</p>
+
+<p>
+  <b>Let's build something meaningful with data & AI. 🚀</b>
+</p>
+
 </div>
