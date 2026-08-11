@@ -1,8 +1,15 @@
 <p align="center">
   <a href="https://github.com/roy-21">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&duration=3000&pause=1000&color=4682B4&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Sojib+Chandra+Roy;Data+Science+Engineer+%7C+Production+ML+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Sojib+Chandra+Roy;Data+Science+Engineer+%7C+Production+ML+Systems" alt="Typing SVG" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Science-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF" alt="Data Science" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Production%20ML-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Production ML" />
+</p>
+
 
 
 <div align="center">
