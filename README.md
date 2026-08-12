@@ -21,49 +21,46 @@ Building practical, data-driven AI solutions for real-world problems.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table>
   <tr>
     <td valign="top" width="33%">
-      <h3>📊 Data Science & ML</h3>
+      <h3>Machine Learning</h3>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
         <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" />
-        <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square" />
-        <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Computer%20Vision-0078D7?style=flat-square" />
+        <img src="https://img.shields.io/badge/NLP-003B57?style=flat-square" />
       </p>
     </td>
-
-  </tr>
-
-  <tr>
     <td valign="top" width="33%">
-      <h3>🤖 Generative AI</h3>
+      <h3>Generative AI & LLMs</h3>
       <p>
-        <img src="https://img.shields.io/badge/Prompt%20Engineering-6B48FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square" />
-        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square" />
+        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+        <img src="https://img.shields.io/badge/RAG-00897B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
+        <img src="https://img.shields.io/badge/FAISS-0078D7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Agentic%20AI-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Prompt%20Engineering-6B48FF?style=flat-square" />
       </p>
     </td>
-
-
-
-  </tr>
-
-  <tr>
     <td valign="top" width="33%">
-      <h3>💻 Programming & Databases</h3>
+      <h3>MLOps & Production</h3>
       <p>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" />
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/ZenML-431D93?style=flat-square" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
       </p>
     </td>
   </tr>
