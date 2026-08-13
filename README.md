@@ -128,13 +128,6 @@ Building practical, data-driven AI solutions for real-world problems.
 ---
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roy-21&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 <!-- ===================== SOCIALS ===================== -->
 
