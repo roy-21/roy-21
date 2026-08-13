@@ -159,37 +159,8 @@ Building practical, data-driven AI solutions for real-world problems.
 <br>
 <hr>
 
-<!-- ===================== CURRENT FOCUS ===================== -->
-
-<h2 align="center">🚀 Current Focus</h2>
-
-<p align="center">
-  Building reliable ML pipelines, production-grade machine learning systems,
-  and data-driven applications that solve real-world problems.
-</p>
-
-<p align="center">
-  <code>Data → Insights → Models → Production</code>
-</p>
-
-<br>
-
-<!-- ===================== FOOTER ===================== -->
-
-<p align="center">
-  <i>Always learning. Always building. Always improving.</i>
-</p>
 
 
-<!-- ===================== TECHNICAL SKILLS ===================== -->
-## 🛠️ Tech Stack & Expertise
-
-* 📊 **Data Science**: Python • SQL • Pandas • NumPy • Matplotlib & Seaborn
-* 🤖 **Machine Learning**: Scikit-Learn • TensorFlow • PyTorch • Feature Engineering
-* ⚙️ **Production ML / MLOps**: Docker • MLflow • FastAPI • CI/CD Pipelines
-* 🌪️ **Data Engineering**: Apache Airflow • ETL Pipelines • PostgreSQL • NoSQL
-
-<br>
 
 <!-- ===================== GITHUB METRICS ===================== -->
 ## 📊 GitHub Analytics
