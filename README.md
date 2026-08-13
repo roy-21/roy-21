@@ -11,8 +11,8 @@ Building practical, data-driven AI solutions for real-world problems.
 </p>
 
 <p align="center">
-  <a href="https://github.com/roy-21/Sojib_Roy-Full-Stack-Portfolio/blob/main/public/CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=adobe&logoColor=white" alt="Resume">
+  <!-- <a href="https://github.com/roy-21/Sojib_Roy-Full-Stack-Portfolio/blob/main/public/CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=adobe&logoColor=white" alt="Resume"> -->
   </a>
   <a href="https://sojib-roy-full-stack-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
