@@ -135,18 +135,6 @@ Building practical, data-driven AI solutions for real-world problems.
 
 
 
-
-
-<!-- ===================== TECHNICAL SKILLS ===================== -->
-## 🛠️ Tech Stack & Expertise
-
-* 📊 **Data Science**: Python • SQL • Pandas • NumPy • Matplotlib & Seaborn
-* 🤖 **Machine Learning**: Scikit-Learn • TensorFlow • PyTorch • Feature Engineering
-* ⚙️ **Production ML / MLOps**: Docker • MLflow • FastAPI • CI/CD Pipelines
-* 🌪️ **Data Engineering**: Apache Airflow • ETL Pipelines • PostgreSQL • NoSQL
-
-<br>
-
 <!-- ===================== GITHUB METRICS ===================== -->
 ## 📊 GitHub Analytics
 
