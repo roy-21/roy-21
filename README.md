@@ -156,14 +156,7 @@ Building practical, data-driven AI solutions for real-world problems.
 
 <br>
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
-## 🚀 Featured Production Projects
 
-* 🔹 **[Project Name 1](Link_Here)**: Brief sentence about the project and its impact (e.g., *Built an automated ML pipeline using Airflow, reducing data latency by 30%*).
-* 🔹 **[Project Name 2](Link_Here)**: Brief description highlighting the tech stack (e.g., *Deployed an end-to-end NLP model using Docker and FastAPI*).
-
-
----
 
 <!-- ===================== ABOUT ME ===================== -->
 
