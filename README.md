@@ -144,15 +144,7 @@ Building practical, data-driven AI solutions for real-world problems.
 * 🔹 **[Project Name 2](Link_To_Repository)**: Brief description highlighting the tech stack (e.g., *Deployed an end-to-end predictive model using Docker and FastAPI*).
 
 
-<!-- ===================== CORE STACK ===================== -->
-## 🛠️ Core Stack & Expertise
 
-* 📊 **Data Science**: Python • SQL • Pandas • NumPy • Data Visualization
-* 🤖 **Machine Learning**: Scikit-Learn • TensorFlow • PyTorch • Feature Engineering
-* ⚙️ **Production ML / MLOps**: Docker • MLflow • FastAPI • CI/CD Pipelines
-* 🌪️ **Data Engineering**: Apache Airflow • ETL Pipelines • Databases (SQL/NoSQL)
-
-<br>
 
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Analytics
