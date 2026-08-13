@@ -129,37 +129,6 @@ Building practical, data-driven AI solutions for real-world problems.
 
 
 
-<!-- ===================== SOCIALS ===================== -->
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://sojib-roy-full-stack-portfolio.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/roysojib/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="https://github.com/roy-21">
-    <img
-      src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-</p>
-
-<br>
-<hr>
-
-
 
 
 <!-- ===================== GITHUB METRICS ===================== -->
