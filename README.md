@@ -145,19 +145,6 @@ Building practical, data-driven AI solutions for real-world problems.
 
 
 
-
-<!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://vercel.app" alt="Sojib's GitHub Stats" height="180" />
-  <img src="https://vercel.app" alt="Top Languages" height="180" />
-</p>
-
-<br>
-
-
-
 <!-- ===================== ABOUT ME ===================== -->
 
 <h2 align="center">🧠 About Me</h2>
