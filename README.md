@@ -139,52 +139,6 @@ Building practical, data-driven AI solutions for real-world problems.
 
 
 
-<!-- ===================== ABOUT ME ===================== -->
-
-<h2 align="center">🧠 About Me</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🔭 Currently
-
-Working on <b>AIQuest Bangla Sentiment Analysis</b>
-
-</td>
-
-<td align="center" width="33%">
-
-### 🌱 Learning
-
-<b>Data Analysis</b><br> <b>Machine Learning</b><br> <b>Deep Learning</b>
-
-</td>
-
-<td align="center" width="33%">
-
-### 💡 Passionate About
-
-Real-world problems<br>
-using <b>Data & AI</b>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<p align="center">
-  <i>
-    "Building intelligent systems that transform data into meaningful decisions."
-  </i>
-</p>
-
----
 
 <!-- ===================== AREAS OF INTEREST ===================== -->
 
