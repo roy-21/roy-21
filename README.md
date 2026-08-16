@@ -348,7 +348,7 @@ Time Series · Python
 |       📌 Metric      | 🔢 Count |
 | :------------------: | :------: |
 |    📄 Publications   |   **1**  |
-|     🔍 Citations     |   **1**  |
+|     🔍 Citations     |   **0**  |
 |   👥 Collaborators   |   **0**  |
 | 🧪 Featured Projects |   **5**  |
 
