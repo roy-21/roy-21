@@ -167,16 +167,7 @@ Building practical, data-driven AI solutions for real-world problems.
 
 <div align="center">
 
-### 📊 Data & Machine Learning
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-161B22?style=flat-square&logo=pandas&logoColor=150458" />
-  <img src="https://img.shields.io/badge/NumPy-161B22?style=flat-square&logo=numpy&logoColor=4DABCF" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-161B22?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
-  <img src="https://img.shields.io/badge/PyTorch-161B22?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
-  <img src="https://img.shields.io/badge/TensorFlow-161B22?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
-  <img src="https://img.shields.io/badge/Seaborn-161B22?style=flat-square&logo=python&logoColor=58A6FF" />
-</p>
 
 ### ⚙️ Engineering & Deployment
 
