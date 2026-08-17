@@ -165,20 +165,6 @@ Building practical, data-driven AI solutions for real-world problems.
 
 <br>
 
-<div align="center">
-
-
-
-### ⚙️ Engineering & Deployment
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688" />
-  <img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/Linux-161B22?style=flat-square&logo=linux&logoColor=FCC624" />
-</p>
-
-</div>
 
 ---
 
