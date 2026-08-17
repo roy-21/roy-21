@@ -35,7 +35,7 @@
     <td valign="top" width="33%">
       <h3>📊 Data Science & ML</h3>
 
-      <p>
+  <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
@@ -47,10 +47,10 @@
       </p>
     </td>
 
-    <td valign="top" width="33%">
+  <td valign="top" width="33%">
       <h3>🧠 Deep Learning & AI</h3>
 
-      <p>
+  <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
         <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
@@ -59,10 +59,10 @@
       </p>
     </td>
 
-    <td valign="top" width="33%">
+  <td valign="top" width="33%">
       <h3>🗣️ NLP & Speech AI</h3>
 
-      <p>
+  <p>
         <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
         <img src="https://img.shields.io/badge/BERT-005571?style=flat-square" alt="BERT" />
         <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square" alt="Whisper" />
@@ -77,7 +77,7 @@
     <td valign="top" width="33%">
       <h3>🤖 Generative AI</h3>
 
-      <p>
+  <p>
         <img src="https://img.shields.io/badge/Prompt%20Engineering-6B48FF?style=flat-square" alt="Prompt Engineering" />
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
         <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square" alt="Anthropic" />
@@ -85,10 +85,10 @@
       </p>
     </td>
 
-    <td valign="top" width="33%">
+<td valign="top" width="33%">
       <h3>⚙️ MLOps & Production</h3>
 
-      <p>
+  <p>
         <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
@@ -97,10 +97,10 @@
       </p>
     </td>
 
-    <td valign="top" width="33%">
+  <td valign="top" width="33%">
       <h3>📈 Data & Visualization</h3>
 
-      <p>
+   <p>
         <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
         <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn" />
         <img src="https://img.shields.io/badge/ggplot2-1F77B4?style=flat-square" alt="ggplot2" />
@@ -115,7 +115,7 @@
     <td valign="top" width="33%">
       <h3>💻 Programming</h3>
 
-      <p>
+  <p>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
         <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL" />
@@ -123,10 +123,10 @@
       </p>
     </td>
 
-    <td valign="top" width="33%">
+   <td valign="top" width="33%">
       <h3>🔧 Tools & Workflow</h3>
 
-      <p>
+  <p>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
@@ -136,10 +136,10 @@
       </p>
     </td>
 
-    <td valign="top" width="33%">
+  <td valign="top" width="33%">
       <h3>🌐 Networking</h3>
 
-      <p>
+   <p>
         <img src="https://img.shields.io/badge/Computer%20Networking-0078D7?style=flat-square" alt="Computer Networking" />
         <img src="https://img.shields.io/badge/TCP%2FIP-2F4F4F?style=flat-square" alt="TCP/IP" />
         <img src="https://img.shields.io/badge/Network%20Fundamentals-4682B4?style=flat-square" alt="Network Fundamentals" />
