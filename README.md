@@ -151,13 +151,6 @@ Building practical, data-driven AI solutions for real-world problems.
 
 </p>
 
-<p align="center">
-  <i>
-    Especially interested in Bangla & multilingual NLP, predictive modeling,
-    medical imaging, and production ML systems.
-  </i>
-</p>
-
 ---
 
 <!-- ===================== TECH STACK ===================== -->
