@@ -153,20 +153,7 @@ Building practical, data-driven AI solutions for real-world problems.
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
 
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,r,mysql,postgresql,pytorch,tensorflow,docker,git,github,linux,html,css,php,c,cpp,arduino&theme=dark" />
-
-</p>
-
-<br>
-
-
----
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 
