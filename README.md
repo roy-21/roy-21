@@ -1,61 +1,74 @@
+<!-- ===================== HEADER ===================== -->
+
 <p align="center">
   <a href="https://github.com/sojib-roy">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&duration=3000&pause=1000&color=4682B4&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Sojib+Chandra+Roy;Data+Science+%7C+Machine+Learning+%7C+Deep+Learning" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Georgia&duration=3000&pause=1000&color=4682B4&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Sojib+Chandra+Roy;Data+Science+%7C+Machine+Learning+%7C+Deep+Learning"
+      alt="Sojib Chandra Roy"
+    />
   </a>
 </p>
 
 <p align="center">
-Data Science focused on Machine Learning, Deep Learning, and data-driven problem solving.<br>
-Working across NLP, Computer Vision, Predictive Analytics, and AI, with a solid foundation in Networking.<br>
-Building practical, data-driven AI solutions for real-world problems.
+  Data Science focused on Machine Learning, Deep Learning, and data-driven problem solving.<br>
+  Working across NLP, Computer Vision, Predictive Analytics, and AI, with a solid foundation in Networking.<br>
+  Building practical, data-driven AI solutions for real-world problems.
 </p>
 
 <p align="center">
-  <!-- <a href="https://github.com/roy-21/Sojib_Roy-Full-Stack-Portfolio/blob/main/public/CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-red?style=for-the-badge&logo=adobe&logoColor=white" alt="Resume"> -->
-  </a>
   <a href="https://sojib-roy-full-stack-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    <img
+      src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
 </p>
 
 ---
-## 🛠️ Tech Stack
 
-<table>
+<!-- ===================== TECH STACK ===================== -->
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<table align="center">
   <tr>
     <td valign="top" width="33%">
       <h3>📊 Data Science & ML</h3>
+
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" />
-        <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square" />
-        <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+        <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square" alt="XGBoost" />
+        <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square" alt="LightGBM" />
+        <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square" alt="CatBoost" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
       </p>
     </td>
+
     <td valign="top" width="33%">
       <h3>🧠 Deep Learning & AI</h3>
+
       <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-        <img src="https://img.shields.io/badge/Computer%20Vision-0078D7?style=flat-square" />
-        <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=flat-square" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+        <img src="https://img.shields.io/badge/Computer%20Vision-0078D7?style=flat-square" alt="Computer Vision" />
+        <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=flat-square" alt="Deep Learning" />
       </p>
     </td>
+
     <td valign="top" width="33%">
       <h3>🗣️ NLP & Speech AI</h3>
+
       <p>
-        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-        <img src="https://img.shields.io/badge/BERT-005571?style=flat-square" />
-        <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square" />
-        <img src="https://img.shields.io/badge/wav2vec2-FF6F00?style=flat-square" />
-        <img src="https://img.shields.io/badge/pyannote.audio-1F77B4?style=flat-square" />
-        <img src="https://img.shields.io/badge/WeSpeaker-2E8B57?style=flat-square" />
+        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+        <img src="https://img.shields.io/badge/BERT-005571?style=flat-square" alt="BERT" />
+        <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square" alt="Whisper" />
+        <img src="https://img.shields.io/badge/wav2vec2-FF6F00?style=flat-square" alt="wav2vec2" />
+        <img src="https://img.shields.io/badge/pyannote.audio-1F77B4?style=flat-square" alt="pyannote.audio" />
+        <img src="https://img.shields.io/badge/WeSpeaker-2E8B57?style=flat-square" alt="WeSpeaker" />
       </p>
     </td>
   </tr>
@@ -63,32 +76,37 @@ Building practical, data-driven AI solutions for real-world problems.
   <tr>
     <td valign="top" width="33%">
       <h3>🤖 Generative AI</h3>
+
       <p>
-        <img src="https://img.shields.io/badge/Prompt%20Engineering-6B48FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square" />
-        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square" />
+        <img src="https://img.shields.io/badge/Prompt%20Engineering-6B48FF?style=flat-square" alt="Prompt Engineering" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+        <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square" alt="Anthropic" />
+        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square" alt="Gemini" />
       </p>
     </td>
+
     <td valign="top" width="33%">
       <h3>⚙️ MLOps & Production</h3>
+
       <p>
-        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       </p>
     </td>
+
     <td valign="top" width="33%">
       <h3>📈 Data & Visualization</h3>
+
       <p>
-        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
-        <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" />
-        <img src="https://img.shields.io/badge/ggplot2-1F77B4?style=flat-square" />
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-        <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
+        <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn" />
+        <img src="https://img.shields.io/badge/ggplot2-1F77B4?style=flat-square" alt="ggplot2" />
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+        <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white" alt="Looker Studio" />
       </p>
     </td>
   </tr>
@@ -96,30 +114,35 @@ Building practical, data-driven AI solutions for real-world problems.
   <tr>
     <td valign="top" width="33%">
       <h3>💻 Programming</h3>
+
       <p>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" />
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL" />
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
       </p>
     </td>
+
     <td valign="top" width="33%">
       <h3>🔧 Tools & Workflow</h3>
+
       <p>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" />
+        <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white" alt="Google Sheets" />
       </p>
     </td>
+
     <td valign="top" width="33%">
       <h3>🌐 Networking</h3>
+
       <p>
-        <img src="https://img.shields.io/badge/Computer%20Networking-0078D7?style=flat-square" />
-        <img src="https://img.shields.io/badge/TCP%2FIP-2F4F4F?style=flat-square" />
-        <img src="https://img.shields.io/badge/Network%20Fundamentals-4682B4?style=flat-square" />
+        <img src="https://img.shields.io/badge/Computer%20Networking-0078D7?style=flat-square" alt="Computer Networking" />
+        <img src="https://img.shields.io/badge/TCP%2FIP-2F4F4F?style=flat-square" alt="TCP/IP" />
+        <img src="https://img.shields.io/badge/Network%20Fundamentals-4682B4?style=flat-square" alt="Network Fundamentals" />
       </p>
     </td>
   </tr>
@@ -127,115 +150,111 @@ Building practical, data-driven AI solutions for real-world problems.
 
 ---
 
-
-
-
-
 <!-- ===================== AREAS OF INTEREST ===================== -->
 
 <h2 align="center">🎯 Areas of Interest</h2>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Natural%20Language%20Processing-161B22?style=for-the-badge&logo=googletranslate&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Natural%20Language%20Processing-161B22?style=for-the-badge&logo=googletranslate&logoColor=58A6FF" alt="NLP" />
 
-<img src="https://img.shields.io/badge/Machine%20Learning-161B22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/Machine%20Learning-161B22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning" />
 
-<img src="https://img.shields.io/badge/Deep%20Learning-161B22?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+<img src="https://img.shields.io/badge/Deep%20Learning-161B22?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="Deep Learning" />
 
-<img src="https://img.shields.io/badge/Data%20Analysis-161B22?style=for-the-badge&logo=databricks&logoColor=FF3621" />
+<img src="https://img.shields.io/badge/Data%20Analysis-161B22?style=for-the-badge&logo=databricks&logoColor=FF3621" alt="Data Analysis" />
 
-<img src="https://img.shields.io/badge/Time%20Series-161B22?style=for-the-badge&logo=chartdotjs&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Time%20Series-161B22?style=for-the-badge&logo=chartdotjs&logoColor=58A6FF" alt="Time Series" />
 
-<img src="https://img.shields.io/badge/Computer%20Vision-161B22?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
+<img src="https://img.shields.io/badge/Computer%20Vision-161B22?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="Computer Vision" />
 
 </p>
 
 ---
-
-
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table align="center">
-<tr>
-<th>Project</th>
-<th>Description</th>
-<th>Tech</th>
-</tr>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech</th>
+  </tr>
 
-<tr>
-<td>
-<b>🫁 Pneumonia Detection</b>
-</td>
-<td>
-Chest X-Ray pneumonia detection using EfficientNet-B3,
-Grad-CAM and FastAPI.
-</td>
-<td>
-PyTorch · FastAPI · Docker
-</td>
-</tr>
+  <tr>
+    <td>
+      <b>🫁 Pneumonia Detection</b>
+    </td>
+    <td>
+      Chest X-Ray pneumonia detection using EfficientNet-B3,
+      Grad-CAM and FastAPI.
+    </td>
+    <td>
+      PyTorch · FastAPI · Docker
+    </td>
+  </tr>
 
-<tr>
-<td>
-<b>🩺 Diabetes Prediction System</b>
-</td>
-<td>
-Full-stack diabetes risk prediction system using ensemble
-models, TabNet and SHAP.
-</td>
-<td>
-FastAPI · React · XGBoost · TabNet
-</td>
-</tr>
+  <tr>
+    <td>
+      <b>🩺 Diabetes Prediction System</b>
+    </td>
+    <td>
+      Full-stack diabetes risk prediction system using ensemble
+      models, TabNet and SHAP.
+    </td>
+    <td>
+      FastAPI · React · XGBoost · TabNet
+    </td>
+  </tr>
 
-<tr>
-<td>
-<b>🇧🇩 Bangla Sentiment Analysis</b>
-</td>
-<td>
-Bangla text sentiment classification into Positive,
-Negative and Neutral classes.
-</td>
-<td>
-NLP · Scikit-learn
-</td>
-</tr>
+  <tr>
+    <td>
+      <b>🇧🇩 Bangla Sentiment Analysis</b>
+    </td>
+    <td>
+      Bangla text sentiment classification into Positive,
+      Negative and Neutral classes.
+    </td>
+    <td>
+      NLP · Scikit-learn
+    </td>
+  </tr>
 
-<tr>
-<td>
-<b>🏠 HomeValueAI</b>
-</td>
-<td>
-Machine learning based house price prediction system.
-</td>
-<td>
-Python · Machine Learning
-</td>
-</tr>
+  <tr>
+    <td>
+      <b>🏠 HomeValueAI</b>
+    </td>
+    <td>
+      Machine learning based house price prediction system.
+    </td>
+    <td>
+      Python · Machine Learning
+    </td>
+  </tr>
 
-<tr>
-<td>
-<b>🌡️ Temperature Forecasting</b>
-</td>
-<td>
-Daily temperature forecasting system for Dhaka.
-</td>
-<td>
-Time Series · Python
-</td>
-</tr>
-
+  <tr>
+    <td>
+      <b>🌡️ Temperature Forecasting</b>
+    </td>
+    <td>
+      Daily temperature forecasting system for Dhaka.
+    </td>
+    <td>
+      Time Series · Python
+    </td>
+  </tr>
 </table>
 
 <br>
 
 <p align="center">
   <a href="https://github.com/roy-21?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Projects-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" />
+    <img
+      src="https://img.shields.io/badge/Explore%20All%20Projects-161B22?style=for-the-badge&logo=github&logoColor=58A6FF"
+      alt="Explore All Projects"
+    />
   </a>
 </p>
 
@@ -247,12 +266,12 @@ Time Series · Python
 
 <div align="center">
 
-|       📌 Metric      | 🔢 Count |
-| :------------------: | :------: |
-|    📄 Publications   |   **1**  |
-|     🔍 Citations     |   **0**  |
-|   👥 Collaborators   |   **0**  |
-| 🧪 Featured Projects |   **5**  |
+| 📌 Metric | 🔢 Count |
+|:---:|:---:|
+| 📄 Publications | **1** |
+| 🔍 Citations | **0** |
+| 👥 Collaborators | **0** |
+| 🧪 Featured Projects | **5** |
 
 </div>
 
@@ -265,47 +284,76 @@ Time Series · Python
 <p align="center">
 
 <a href="https://github.com/roy-21">
-  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <img
+    src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF"
+    alt="GitHub"
+  />
 </a>
 
 <a href="https://www.linkedin.com/in/roysojib/">
-  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  <img
+    src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="https://www.kaggle.com/roy210005">
-  <img src="https://img.shields.io/badge/Kaggle-161B22?style=for-the-badge&logo=kaggle&logoColor=20BEFF" />
+  <img
+    src="https://img.shields.io/badge/Kaggle-161B22?style=for-the-badge&logo=kaggle&logoColor=20BEFF"
+    alt="Kaggle"
+  />
 </a>
 
 <a href="https://twitter.com/rc_sojib">
-  <img src="https://img.shields.io/badge/X-161B22?style=for-the-badge&logo=x&logoColor=FFFFFF" />
+  <img
+    src="https://img.shields.io/badge/X-161B22?style=for-the-badge&logo=x&logoColor=FFFFFF"
+    alt="X"
+  />
 </a>
 
 <a href="https://www.facebook.com/sojib614">
-  <img src="https://img.shields.io/badge/Facebook-161B22?style=for-the-badge&logo=facebook&logoColor=1877F2" />
+  <img
+    src="https://img.shields.io/badge/Facebook-161B22?style=for-the-badge&logo=facebook&logoColor=1877F2"
+    alt="Facebook"
+  />
 </a>
 
 <a href="https://www.instagram.com/roy_jih05/">
-  <img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  <img
+    src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F"
+    alt="Instagram"
+  />
 </a>
 
 <a href="https://youtube.com/@aisonicflow22">
-  <img src="https://img.shields.io/badge/YouTube-161B22?style=for-the-badge&logo=youtube&logoColor=FF0000" />
+  <img
+    src="https://img.shields.io/badge/YouTube-161B22?style=for-the-badge&logo=youtube&logoColor=FF0000"
+    alt="YouTube"
+  />
 </a>
 
 <a href="https://codeforces.com/profile/sojib_roy5">
-  <img src="https://img.shields.io/badge/Codeforces-161B22?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" />
+  <img
+    src="https://img.shields.io/badge/Codeforces-161B22?style=for-the-badge&logo=codeforces&logoColor=1F8ACB"
+    alt="Codeforces"
+  />
 </a>
 
 <a href="https://www.geeksforgeeks.org/user/rcsoji7ttn/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-161B22?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
+  <img
+    src="https://img.shields.io/badge/GeeksforGeeks-161B22?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"
+    alt="GeeksforGeeks"
+  />
 </a>
 
 <a href="https://discord.gg/1365029203908759583">
-  <img src="https://img.shields.io/badge/Discord-161B22?style=for-the-badge&logo=discord&logoColor=5865F2" />
+  <img
+    src="https://img.shields.io/badge/Discord-161B22?style=for-the-badge&logo=discord&logoColor=5865F2"
+    alt="Discord"
+  />
 </a>
 
 </p>
-
 
 ---
 
