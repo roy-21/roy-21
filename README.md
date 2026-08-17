@@ -131,15 +131,6 @@ Building practical, data-driven AI solutions for real-world problems.
 
 
 
-
-
-
-
-
-
-
-
-
 <!-- ===================== AREAS OF INTEREST ===================== -->
 
 <h2 align="center">🎯 Areas of Interest</h2>
