@@ -342,35 +342,6 @@ Time Series · Python
 
 </p>
 
----
-
-
-
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy-21&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
- height="170"
- alt="Top Languages"
-/>
-
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=roy-21&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://yourinsights.vercel.app/api/insight?username=roy-21&theme=ocean&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true"
-    alt="GitHub Insights"
-  />
-</p>
 
 ---
 
