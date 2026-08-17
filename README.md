@@ -360,16 +360,7 @@ Time Series · Python
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
 
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=roy-21&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
-    height="170"
-    alt="GitHub Stats"
-  />
 
 <img
  src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy-21&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
