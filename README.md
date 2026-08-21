@@ -72,7 +72,6 @@
       </p>
     </td>
   </tr>
-
   <tr>
     <td valign="top" width="33%">
       <h3>🤖 Generative AI</h3>
