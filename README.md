@@ -208,7 +208,6 @@
       FastAPI · React · XGBoost · TabNet
     </td>
   </tr>
-
   <tr>
     <td>
       <b>🇧🇩 Bangla Sentiment Analysis</b>
