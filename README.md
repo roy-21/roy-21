@@ -173,6 +173,7 @@
 
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -181,6 +182,18 @@
     <th>Project</th>
     <th>Description</th>
     <th>Tech</th>
+  </tr>
+
+  <tr>
+    <td>
+      <b>🍕 Domino’s Pizza Sales Analytics</b>
+    </td>
+    <td>
+      Business intelligence dashboard, branch & product diagnostics, and predictive sales forecasting for Domino’s Pizza Nigeria.
+    </td>
+    <td>
+      Power BI · DAX · Python
+    </td>
   </tr>
 
   <tr>
@@ -208,6 +221,7 @@
       FastAPI · React · XGBoost · TabNet
     </td>
   </tr>
+
   <tr>
     <td>
       <b>🇧🇩 Bangla Sentiment Analysis</b>
