@@ -284,7 +284,7 @@
 | 📄 Publications | **1** |
 | 🔍 Citations | **0** |
 | 👥 Collaborators | **0** |
-| 🧪 Featured Projects | **5** |
+| 🧪 Featured Projects | **6** |
 
 </div>
 
