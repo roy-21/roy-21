@@ -281,7 +281,7 @@
 
 | 📌 Metric | 🔢 Count |
 |:---:|:---:|
-| 📄 Publications | **1** |
+| 📄 Publications | **2** |
 | 🔍 Citations | **0** |
 | 👥 Collaborators | **0** |
 | 🧪 Featured Projects | **6** |
